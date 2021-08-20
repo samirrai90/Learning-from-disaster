@@ -1,2 +1,4 @@
 # Learning-from-disaster
-Kaggle Learning Competition Project - Goal: To gain hands on experience on a Machine Learning project, I attempt the Titanic, Learning from disaster competition.
+- Goal: Gain some hands on experience of a Machine Learning project by manipulating the Titanic Dataset to develop a predictor to see who survived. 
+- Results were submitted to the Kaggle competiti: 77.5% accuracy currently.
+- Please click on the ipynb(Jupyter Notebook) file below the README file to see the project.
